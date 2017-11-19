@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chamados</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="login">LOGIN</string>
+    <string name="listar_chamadas">Listar chamadas</string>
+</resources>
